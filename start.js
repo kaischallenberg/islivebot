@@ -1,7 +1,7 @@
 const opn = require("opn");
 
 var token = "{TOKEN}";
-var cliendid = "{CLIENTID}";
+var clientid = "{CLIENTID}";
 var client = clientid;
 
 
